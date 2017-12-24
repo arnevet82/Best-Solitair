@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4343CD</color>
+    <color name="colorDrawerSelected">#FFBDBDBD</color>
+    <color name="white">#ffffff</color>
+    <color name="green">#00a008</color>
+    <color name="greenBackground">#c62828</color>
+    <color name="blue">#5d80f0</color>
+    <color name="transe">#10ffffff</color>
+
+    <color name="blueBackground">#c62828</color>
+</resources>
