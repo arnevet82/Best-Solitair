@@ -116,8 +116,8 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 25 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="__local_aars__:C.\Users\Admin\AndroidStudioProjects\Best Solitair\app\libs\uncommons-maths-1.2.4.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="com.android.support:animated-vector-drawable-25.3.1" level="project" />
-    <orderEntry type="library" name="__local_aars__:C.\Users\Admin\AndroidStudioProjects\Simple-Solitaire\app\libs\uncommons-maths-1.2.4.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="com.android.support:transition-25.3.1" level="project" />
     <orderEntry type="library" name="com.android.support:design-25.3.1" level="project" />
     <orderEntry type="library" name="com.android.support:cardview-v7-25.3.1" level="project" />
